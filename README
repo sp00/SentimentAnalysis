@@ -2,14 +2,14 @@ This is a sentiment analysis course project for CS 221 Information Retrieval at 
 
 References, and relevant resources / links:
 
-[http://nlp.stanford.edu/IR-book/information-retrieval-book.html Christopher D. Manning, Prabhakar Raghavan and Hinrich Schütze, Introduction to Information Retrieval, Cambridge University Press. 2008.]
-[Sanders Analytics](http://www.sananalytics.com/lab/twitter-sentiment/)
-[Using the Twitter Search API](https://dev.twitter.com/docs/using-search)
-[The J.D. Power and Associates Sentiment Corpus](http://verbs.colorado.edu/jdpacorpus/)
-[WordNet @ Princeton University](http://wordnet.princeton.edu/wordnet/)
-[hadoop](http://hadoop.apache.org/)
-[MapReduce Tutorial](http://hadoop.apache.org/common/docs/current/mapred_tutorial.html)
-[WEKA @ University of Waikato](http://weka.wikispaces.com/)
+Christopher D. Manning, Prabhakar Raghavan and Hinrich Schütze, Introduction to Information Retrieval, Cambridge University Press. 2008. -- http://nlp.stanford.edu/IR-book/information-retrieval-book.html
+Sanders Analytics -- http://www.sananalytics.com/lab/twitter-sentiment/
+Using the Twitter Search API -- https://dev.twitter.com/docs/using-search
+The J.D. Power and Associates Sentiment Corpus -- http://verbs.colorado.edu/jdpacorpus/
+WordNet @ Princeton University -- http://wordnet.princeton.edu/wordnet/
+hadoop -- http://hadoop.apache.org/
+MapReduce Tutorial -- http://hadoop.apache.org/common/docs/current/mapred_tutorial.html
+WEKA @ University of Waikato -- http://weka.wikispaces.com/
 
 Keywords:
 
